@@ -15,4 +15,3 @@ fetch("https://newsapi.org/v2/everything?q=space&apiKey=10795ad1046b4ffa942119ac
         }
     })
     .catch(error => console.error(error));
-
